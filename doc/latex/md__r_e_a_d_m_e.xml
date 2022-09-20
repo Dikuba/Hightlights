@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_md__r_e_a_d_m_e" xml:lang="en-US">
+
+<para>This project was bootstrapped with <link xlink:href="https://github.com/facebook/create-react-app">Create React App</link>.</para>
+<section xml:id="_md__r_e_a_d_m_e_1autotoc_md1">
+<title>Available Scripts</title>
+
+<para>In the project directory, you can run:</para>
+<section xml:id="_md__r_e_a_d_m_e_1autotoc_md2">
+<title>&lt;tt&gt;npm start&lt;/tt&gt;</title>
+
+<para>Runs the app in the development mode.\ Open <link xlink:href="http://localhost:3000">http://localhost:3000</link> to view it in the browser.</para>
+
+<para>The page will reload if you make edits.\ You will also see any lint errors in the console.</para>
+</section>
+<section xml:id="_md__r_e_a_d_m_e_1autotoc_md3">
+<title>&lt;tt&gt;npm test&lt;/tt&gt;</title>
+
+<para>Launches the test runner in the interactive watch mode.\ See the section about <link xlink:href="https://facebook.github.io/create-react-app/docs/running-tests">running tests</link> for more information.</para>
+</section>
+<section xml:id="_md__r_e_a_d_m_e_1autotoc_md4">
+<title>&lt;tt&gt;npm run build&lt;/tt&gt;</title>
+
+<para>Builds the app for production to the <computeroutput>build</computeroutput> folder.\ It correctly bundles React in production mode and optimizes the build for the best performance.</para>
+
+<para>The build is minified and the filenames include the hashes.\ Your app is ready to be deployed!</para>
+
+<para>See the section about <link xlink:href="https://facebook.github.io/create-react-app/docs/deployment">deployment</link> for more information.</para>
+</section>
+<section xml:id="_md__r_e_a_d_m_e_1autotoc_md5">
+<title>&lt;tt&gt;npm run eject&lt;/tt&gt;</title>
+
+<para><emphasis role="bold">Note: this is a one-way operation. Once you <computeroutput>eject</computeroutput>, you can’t go back!</emphasis></para>
+
+<para>If you aren’t satisfied with the build tool and configuration choices, you can <computeroutput>eject</computeroutput> at any time. This command will remove the single build dependency from your project.</para>
+
+<para>Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except <computeroutput>eject</computeroutput> will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.</para>
+
+<para>You don’t have to ever use <computeroutput>eject</computeroutput>. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.</para>
+</section>
+</section>
+<section xml:id="_md__r_e_a_d_m_e_1autotoc_md6">
+<title>Learn More</title>
+
+<para>You can learn more in the <link xlink:href="https://facebook.github.io/create-react-app/docs/getting-started">Create React App documentation</link>.</para>
+
+<para>To learn React, check out the <link xlink:href="https://reactjs.org/">React documentation</link>.</para>
+<section xml:id="_md__r_e_a_d_m_e_1autotoc_md7">
+<title>Code Splitting</title>
+
+<para>This section has moved here: <link xlink:href="https://facebook.github.io/create-react-app/docs/code-splitting">https://facebook.github.io/create-react-app/docs/code-splitting</link></para>
+</section>
+<section xml:id="_md__r_e_a_d_m_e_1autotoc_md8">
+<title>Analyzing the Bundle Size</title>
+
+<para>This section has moved here: <link xlink:href="https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size">https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size</link></para>
+</section>
+<section xml:id="_md__r_e_a_d_m_e_1autotoc_md9">
+<title>Making a Progressive Web App</title>
+
+<para>This section has moved here: <link xlink:href="https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app">https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app</link></para>
+</section>
+<section xml:id="_md__r_e_a_d_m_e_1autotoc_md10">
+<title>Advanced Configuration</title>
+
+<para>This section has moved here: <link xlink:href="https://facebook.github.io/create-react-app/docs/advanced-configuration">https://facebook.github.io/create-react-app/docs/advanced-configuration</link></para>
+</section>
+<section xml:id="_md__r_e_a_d_m_e_1autotoc_md11">
+<title>Deployment</title>
+
+<para>This section has moved here: <link xlink:href="https://facebook.github.io/create-react-app/docs/deployment">https://facebook.github.io/create-react-app/docs/deployment</link></para>
+</section>
+<section xml:id="_md__r_e_a_d_m_e_1autotoc_md12">
+<title>&lt;tt&gt;npm run build&lt;/tt&gt; fails to minify</title>
+
+<para>This section has moved here: <link xlink:href="https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify">https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify</link> </para>
+</section>
+</section>
+</section>
